@@ -123,13 +123,15 @@ def run_for_all_products(
     ui = UIAutomation(coords=coords, delay=delay)
 
     for product in dishes:
-        product_name = product["name"]
+        # Step: determine product name to use in UI (display_name if present)
+        raw_name = product.get("name", "")
+        product_name_for_ui = product.get("display_name") or raw_name
 
         if warn_before_product:
-            print(f"About to save product: {product_name}")
+            print(f"About to save product: {product_name_for_ui}")
 
         # Step: select product in UI
-        ui.select_product(product_name=product_name)
+        ui.select_product(product_name=product_name_for_ui)
 
         # Step: mark product as complex
         ui.mark_complex_product()
@@ -138,14 +140,27 @@ def run_for_all_products(
         ui.open_retetar()
 
         # Step: add ingredients when present
-        ingredients = product.get("ingredients") or {}
-        for ingredient_name, weight in ingredients.items():
-            ui.add_ingredient(ingredient_name=ingredient_name, weight=weight)
+        ingredients: Dict[str, Any] = product.get("ingredients") or {}
+        for ingredient_key, ingredient_data in ingredients.items():
+            # ingredient_data is expected to be an object with quantity/unit/display_name
+            if isinstance(ingredient_data, dict):
+                ingredient_name_for_ui = ingredient_data.get("display_name") or ingredient_key
+                weight = ingredient_data.get("quantity", 0)
+            else:
+                # Fallback for legacy numeric format
+                ingredient_name_for_ui = ingredient_key
+                weight = ingredient_data
+            ui.add_ingredient(ingredient_name=ingredient_name_for_ui, weight=weight)
 
         # Step: add items when present
-        items = product.get("items") or {}
-        for item_name, _amount in items.items():
-            ui.add_item(item_name=item_name)
+        items: Dict[str, Any] = product.get("items") or {}
+        for item_key, item_data in items.items():
+            if isinstance(item_data, dict):
+                item_name_for_ui = item_data.get("display_name") or item_key
+            else:
+                # Fallback for legacy numeric format
+                item_name_for_ui = item_key
+            ui.add_item(item_name=item_name_for_ui)
 
         # Step: save changes for this product
         ui.save()

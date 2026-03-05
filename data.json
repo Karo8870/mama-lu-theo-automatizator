@@ -1,13 +1,27 @@
 [
   {
-    "name": "DONNER Pui",
+    "name": "DONNER Pui 350 gr",
+    "display_name": "donner pui",
     "weight_g": 350,
     "price_ron": 28,
     "ingredients": {
-      "chifla_g": 150,
-      "carne_pui_g": 80,
-      "legume_g": 70,
-      "sos_g": 50
+      "chifla": {
+        "unit": "g",
+        "quantity": 150
+      },
+      "carne_pui": {
+        "display_name": "carne pui",
+        "unit": "g",
+        "quantity": 80
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 70
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 50
+      }
     },
     "nutrition": {
       "kcal": 851,
@@ -25,14 +39,28 @@
     ]
   },
   {
-    "name": "DONNER Vita",
+    "name": "DONNER Vita 350 gr",
+    "display_name": "donner vita",
     "weight_g": 350,
     "price_ron": 34,
     "ingredients": {
-      "chifla_g": 150,
-      "carne_vita_g": 80,
-      "legume_g": 70,
-      "sos_g": 50
+      "chifla": {
+        "unit": "g",
+        "quantity": 150
+      },
+      "carne_vita": {
+        "display_name": "carne vita",
+        "unit": "g",
+        "quantity": 80
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 70
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 50
+      }
     },
     "nutrition": {
       "kcal": 895,
@@ -50,15 +78,33 @@
     ]
   },
   {
-    "name": "DONNER Mixt",
+    "name": "DONNER Mixt 350 gr",
+    "display_name": "donner mixt",
     "weight_g": 350,
     "price_ron": 31,
     "ingredients": {
-      "carne_pui_g": 40,
-      "carne_vita_g": 40,
-      "chifla_g": 150,
-      "sos_g": 50,
-      "legume_g": 70
+      "carne_pui": {
+        "display_name": "carne pui",
+        "unit": "g",
+        "quantity": 40
+      },
+      "carne_vita": {
+        "display_name": "carne vita",
+        "unit": "g",
+        "quantity": 40
+      },
+      "chifla": {
+        "unit": "g",
+        "quantity": 150
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 70
+      }
     },
     "nutrition": {
       "kcal": 873,
@@ -76,17 +122,31 @@
     ]
   },
   {
-    "name": "SANDWICH SNITEL",
+    "name": "SANDWICH SNITEL 460 gr",
+    "display_name": "sandwich snitel",
     "weight_g": 460,
     "price_ron": 29,
     "ingredients": {
-      "paine_g": 170,
-      "cartofi_g": 60,
-      "sos_g": 30,
-      "legume_g": 50
-    },
-    "items": {
-      "snitel_g": 160
+      "paine": {
+        "unit": "g",
+        "quantity": 170
+      },
+      "carne": {
+        "unit": "g",
+        "quantity": 160
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 60
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 50
+      }
     },
     "nutrition": {
       "kcal": 1185,
@@ -104,15 +164,32 @@
     ]
   },
   {
-    "name": "HAMBURGER Pui",
+    "name": "HAMBURGER Pui 450 gr",
+    "display_name": "hamburger pui",
     "weight_g": 450,
     "price_ron": 23,
     "ingredients": {
-      "carne_pui_g": 150,
-      "cartofi_g": 50,
-      "paine_g": 150,
-      "sos_g": 40,
-      "legume_g": 60
+      "carne_pui": {
+        "display_name": "carne pui",
+        "unit": "g",
+        "quantity": 150
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "paine": {
+        "unit": "g",
+        "quantity": 150
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 40
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 60
+      }
     },
     "nutrition": {
       "kcal": 1060,
@@ -130,15 +207,32 @@
     ]
   },
   {
-    "name": "HAMBURGER Vita",
+    "name": "HAMBURGER Vita 500gr",
+    "display_name": "hamburger vita",
     "weight_g": 500,
     "price_ron": 32,
     "ingredients": {
-      "carne_vita_g": 200,
-      "cartofi_g": 50,
-      "paine_g": 150,
-      "sos_g": 40,
-      "legume_g": 60
+      "carne_vita": {
+        "display_name": "carne vita",
+        "unit": "g",
+        "quantity": 200
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "paine": {
+        "unit": "g",
+        "quantity": 150
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 40
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 60
+      }
     },
     "nutrition": {
       "kcal": 1245,
@@ -156,17 +250,32 @@
     ]
   },
   {
-    "name": "FALAFEL Lipie Mediu",
+    "name": "FALAFEL Lipie Mediu 380 gr",
+    "display_name": "falafel lipie mediu",
     "weight_g": 380,
     "price_ron": 28,
     "ingredients": {
-      "lipie_g": 100,
-      "sos_g": 60,
-      "cartofi_g": 50,
-      "legume_g": 70
-    },
-    "items": {
-      "chiftele_falafel_g": 100
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "chiftele_falafel": {
+        "display_name": "chiftele falafel",
+        "unit": "g",
+        "quantity": 100
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 60
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 70
+      }
     },
     "nutrition": {
       "kcal": 1020,
@@ -185,17 +294,32 @@
     ]
   },
   {
-    "name": "FALAFEL Lipie Mare",
+    "name": "FALAFEL Lipie Mare 500 gr",
+    "display_name": "falafel lipie mare",
     "weight_g": 500,
     "price_ron": 32,
     "ingredients": {
-      "lipie_g": 100,
-      "sos_g": 80,
-      "cartofi_g": 100,
-      "legume_g": 100
-    },
-    "items": {
-      "chiftele_falafel_g": 120
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "chiftele_falafel": {
+        "display_name": "chiftele falafel",
+        "unit": "g",
+        "quantity": 120
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 100
+      }
     },
     "nutrition": {
       "kcal": 1340,
@@ -214,18 +338,36 @@
     ]
   },
   {
-    "name": "FALAFEL la Farfurie Mare 500g",
+    "name": "FALAFEL la Farfurie Mare 500 gr",
+    "display_name": "falafel la farfurie mare",
     "weight_g": 500,
     "price_ron": 30,
     "ingredients": {
-      "lipie_g": 100,
-      "sos_g": 60,
-      "cartofi_g": 50,
-      "legume_g": 70,
-      "humus_g": 120
-    },
-    "items": {
-      "chiftele_falafel_g": 100
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "chiftele_falafel": {
+        "display_name": "chiftele falafel",
+        "unit": "g",
+        "quantity": 100
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 60
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 70
+      },
+      "humus": {
+        "unit": "g",
+        "quantity": 120
+      }
     },
     "nutrition": {
       "kcal": 1220,
@@ -244,18 +386,36 @@
     ]
   },
   {
-    "name": "FALAFEL la Farfurie Mare 620g",
+    "name": "FALAFEL la Farfurie Mare 620 gr",
+    "display_name": "falafel la farfurie mare",
     "weight_g": 620,
     "price_ron": 34,
     "ingredients": {
-      "lipie_g": 100,
-      "sos_g": 80,
-      "cartofi_g": 100,
-      "legume_g": 100,
-      "humus_g": 120
-    },
-    "items": {
-      "chiftele_falafel_g": 120
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "chiftele_falafel": {
+        "display_name": "chiftele falafel",
+        "unit": "g",
+        "quantity": 120
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "humus": {
+        "unit": "g",
+        "quantity": 120
+      }
     },
     "nutrition": {
       "kcal": 1480,
@@ -274,14 +434,28 @@
     ]
   },
   {
-    "name": "DURUM RULAT Pui",
+    "name": "DURUM RULAT Pui 350 gr",
+    "display_name": "durum rulat pui",
     "weight_g": 350,
     "price_ron": 39,
     "ingredients": {
-      "carne_pui_g": 130,
-      "cartofi_g": 100,
-      "cascaval_g": 70,
-      "sos_g": 50
+      "carne_pui": {
+        "display_name": "carne pui",
+        "unit": "g",
+        "quantity": 130
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "cascaval": {
+        "unit": "g",
+        "quantity": 70
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 50
+      }
     },
     "nutrition": {
       "kcal": 1050,
@@ -299,14 +473,28 @@
     ]
   },
   {
-    "name": "DURUM RULAT Vita",
+    "name": "DURUM RULAT Vita 350 gr",
+    "display_name": "durum rulat vita",
     "weight_g": 350,
     "price_ron": 48,
     "ingredients": {
-      "carne_vita_g": 130,
-      "cartofi_g": 100,
-      "cascaval_g": 70,
-      "sos_g": 50
+      "carne_vita": {
+        "display_name": "carne vita",
+        "unit": "g",
+        "quantity": 130
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "cascaval": {
+        "unit": "g",
+        "quantity": 70
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 50
+      }
     },
     "nutrition": {
       "kcal": 1150,
@@ -324,14 +512,28 @@
     ]
   },
   {
-    "name": "SUPA Pui",
+    "name": "SUPA Pui 350 ml",
+    "display_name": "supa pui",
     "weight_g": 350,
     "price_ron": 22,
     "ingredients": {
-      "orez_g": 30,
-      "apa_ml": 200,
-      "carne_pui_g": 80,
-      "legume_g": 40
+      "orez": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "apa": {
+        "unit": "ml",
+        "quantity": 200
+      },
+      "carne_pui": {
+        "display_name": "pui",
+        "unit": "g",
+        "quantity": 80
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 40
+      }
     },
     "nutrition": {
       "kcal": 180,
@@ -347,13 +549,23 @@
     ]
   },
   {
-    "name": "Supa LINTE",
+    "name": "Supa LINTE 350ml",
+    "display_name": "supa linte",
     "weight_g": 350,
     "price_ron": 26,
     "ingredients": {
-      "linte_g": 250,
-      "legume_g": 50,
-      "apa_ml": 50
+      "linte": {
+        "unit": "g",
+        "quantity": 250
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "apa": {
+        "unit": "ml",
+        "quantity": 50
+      }
     },
     "nutrition": {
       "kcal": 320,
@@ -368,14 +580,28 @@
     ]
   },
   {
-    "name": "BABAHANUS",
+    "name": "BABAHANUS 250 gr",
+    "display_name": "babahanus",
     "weight_g": 250,
     "price_ron": 30,
     "ingredients": {
-      "vinete_g": 100,
-      "ardei_kapia_g": 100,
-      "rosii_g": 40,
-      "usturoi_g": 10
+      "vinete": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "ardei_kapia": {
+        "display_name": "ardei kapia",
+        "unit": "g",
+        "quantity": 100
+      },
+      "rosii": {
+        "unit": "g",
+        "quantity": 40
+      },
+      "usturoi": {
+        "unit": "g",
+        "quantity": 10
+      }
     },
     "nutrition": {
       "kcal": 120,
@@ -390,14 +616,30 @@
     ]
   },
   {
-    "name": "Ezme",
+    "name": "Ezme 250gr",
+    "display_name": "ezme",
     "weight_g": 250,
     "price_ron": 25,
     "ingredients": {
-      "rosii_g": 100,
-      "castravete_verde_g": 100,
-      "ardei_iute_g": 20,
-      "sos_rodii_g": 30
+      "rosii": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "castravete_verde": {
+        "display_name": "castravete verde",
+        "unit": "g",
+        "quantity": 100
+      },
+      "ardei_iute": {
+        "display_name": "ardei iute",
+        "unit": "g",
+        "quantity": 20
+      },
+      "sos_rodii": {
+        "display_name": "sos rodii",
+        "unit": "g",
+        "quantity": 30
+      }
     },
     "nutrition": {
       "kcal": 85,
@@ -411,13 +653,23 @@
     ]
   },
   {
-    "name": "Haydari",
+    "name": "Haydari 250gr",
+    "display_name": "haydari",
     "weight_g": 250,
     "price_ron": 20,
     "ingredients": {
-      "menta_g": 20,
-      "usturoi_g": 20,
-      "iaurt_g": 210
+      "menta": {
+        "unit": "g",
+        "quantity": 20
+      },
+      "usturoi": {
+        "unit": "g",
+        "quantity": 20
+      },
+      "iaurt": {
+        "unit": "g",
+        "quantity": 210
+      }
     },
     "nutrition": {
       "kcal": 200,
@@ -432,14 +684,27 @@
     ]
   },
   {
-    "name": "Humus",
+    "name": "Humus 250 gr",
+    "display_name": "humus",
     "weight_g": 250,
     "price_ron": 20,
     "ingredients": {
-      "naut_g": 200,
-      "lamaie_g": 10,
-      "susan_g": 30,
-      "usturoi_g": 10
+      "naut": {
+        "unit": "g",
+        "quantity": 200
+      },
+      "lamaie": {
+        "unit": "g",
+        "quantity": 10
+      },
+      "susan": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "usturoi": {
+        "unit": "g",
+        "quantity": 10
+      }
     },
     "nutrition": {
       "kcal": 550,
@@ -455,14 +720,29 @@
     ]
   },
   {
-    "name": "Shakshuka",
+    "name": "Shakshuka 250gr",
+    "display_name": "shakshuka",
     "weight_g": 250,
     "price_ron": 20,
     "ingredients": {
-      "vinete_g": 100,
-      "ardei_kapia_g": 50,
-      "ardei_verde_g": 50,
-      "rosii_g": 50
+      "vinete": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "ardei_kapia": {
+        "display_name": "ardei kapia",
+        "unit": "g",
+        "quantity": 50
+      },
+      "ardei_verde": {
+        "display_name": "ardei verde",
+        "unit": "g",
+        "quantity": 50
+      },
+      "rosii": {
+        "unit": "g",
+        "quantity": 50
+      }
     },
     "nutrition": {
       "kcal": 90,
@@ -476,15 +756,32 @@
     ]
   },
   {
-    "name": "Tabbouleh",
+    "name": "Tabbouleh 250 gr",
+    "display_name": "tabbouleh",
     "weight_g": 250,
     "price_ron": 25,
     "ingredients": {
-      "patrunjel_g": 150,
-      "bulgur_g": 30,
-      "rosii_g": 30,
-      "rodii_g": 30,
-      "ceapa_rosie_g": 10
+      "patrunjel": {
+        "unit": "g",
+        "quantity": 150
+      },
+      "bulgur": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "rosii": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "rodii": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "ceapa_rosie": {
+        "display_name": "ceapa rosie",
+        "unit": "g",
+        "quantity": 10
+      }
     },
     "nutrition": {
       "kcal": 160,
@@ -499,12 +796,20 @@
     ]
   },
   {
-    "name": "Salata Pui",
+    "name": "Salata Pui 370gr",
+    "display_name": "salata pui",
     "weight_g": 370,
     "price_ron": 32,
     "ingredients": {
-      "legume_g": 290,
-      "carne_pui_g": 80
+      "legume": {
+        "unit": "g",
+        "quantity": 290
+      },
+      "carne_pui": {
+        "display_name": "carne pui",
+        "unit": "g",
+        "quantity": 80
+      }
     },
     "nutrition": {
       "kcal": 220,
@@ -518,15 +823,32 @@
     ]
   },
   {
-    "name": "Kebab Pui",
+    "name": "Kebab Pui 380gr",
+    "display_name": "kebab pui",
     "weight_g": 380,
     "price_ron": 30,
     "ingredients": {
-      "paine_g": 150,
-      "carne_pui_g": 80,
-      "cartofi_g": 50,
-      "sos_g": 30,
-      "legume_g": 70
+      "paine": {
+        "unit": "g",
+        "quantity": 150
+      },
+      "carne_pui": {
+        "display_name": "carne pui",
+        "unit": "g",
+        "quantity": 80
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 70
+      }
     },
     "nutrition": {
       "kcal": 930,
@@ -544,15 +866,32 @@
     ]
   },
   {
-    "name": "Kebab Vita",
+    "name": "Kebab Vita 380gr",
+    "display_name": "kebab vita",
     "weight_g": 380,
     "price_ron": 30,
     "ingredients": {
-      "paine_g": 150,
-      "carne_vita_g": 80,
-      "cartofi_g": 50,
-      "sos_g": 30,
-      "legume_g": 70
+      "paine": {
+        "unit": "g",
+        "quantity": 150
+      },
+      "carne_vita": {
+        "display_name": "carne vita",
+        "unit": "g",
+        "quantity": 80
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 70
+      }
     },
     "nutrition": {
       "kcal": 980,
@@ -570,16 +909,37 @@
     ]
   },
   {
-    "name": "Kebab Mix",
+    "name": "Kebab Mix 380gr",
+    "display_name": "kebab mix",
     "weight_g": 380,
     "price_ron": 30,
     "ingredients": {
-      "paine_g": 150,
-      "carne_pui_g": 40,
-      "carne_vita_g": 40,
-      "cartofi_g": 50,
-      "sos_g": 30,
-      "legume_g": 70
+      "paine": {
+        "unit": "g",
+        "quantity": 150
+      },
+      "carne_pui": {
+        "display_name": "carne pui",
+        "unit": "g",
+        "quantity": 40
+      },
+      "carne_vita": {
+        "display_name": "carne vita",
+        "unit": "g",
+        "quantity": 40
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 70
+      }
     },
     "nutrition": {
       "kcal": 955,
@@ -597,17 +957,40 @@
     ]
   },
   {
-    "name": "Vatra Pui",
+    "name": "Vatra Pui 590gr",
+    "display_name": "vatra pui",
     "weight_g": 590,
     "price_ron": 57,
     "ingredients": {
-      "lipie_g": 200,
-      "carne_pui_g": 200,
-      "cascaval_g": 80,
-      "iaurt_g": 30,
-      "sos_g": 30,
-      "fistic_g": 20,
-      "unt_g": 30
+      "lipie": {
+        "unit": "g",
+        "quantity": 200
+      },
+      "carne_pui": {
+        "display_name": "carne pui",
+        "unit": "g",
+        "quantity": 200
+      },
+      "cascaval": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "iaurt": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "fistic": {
+        "unit": "g",
+        "quantity": 20
+      },
+      "unt": {
+        "unit": "g",
+        "quantity": 30
+      }
     },
     "nutrition": {
       "kcal": 1870,
@@ -626,17 +1009,40 @@
     ]
   },
   {
-    "name": "Vatra Vita",
+    "name": "Vatra Vita 590gr",
+    "display_name": "vatra vita",
     "weight_g": 590,
     "price_ron": 66,
     "ingredients": {
-      "lipie_g": 200,
-      "carne_vita_g": 200,
-      "cascaval_g": 80,
-      "iaurt_g": 30,
-      "sos_g": 30,
-      "fistic_g": 20,
-      "unt_g": 30
+      "lipie": {
+        "unit": "g",
+        "quantity": 200
+      },
+      "carne_vita": {
+        "display_name": "carne vita",
+        "unit": "g",
+        "quantity": 200
+      },
+      "cascaval": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "iaurt": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "fistic": {
+        "unit": "g",
+        "quantity": 20
+      },
+      "unt": {
+        "unit": "g",
+        "quantity": 30
+      }
     },
     "nutrition": {
       "kcal": 1950,
@@ -655,14 +1061,28 @@
     ]
   },
   {
-    "name": "Adana",
+    "name": "Adana 550gr",
+    "display_name": "adana",
     "weight_g": 550,
     "price_ron": 68,
     "ingredients": {
-      "carne_g": 220,
-      "lipie_g": 100,
-      "bulgur_g": 100,
-      "legume_g": 130
+      "carne_oaie_vita": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 220
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "bulgur": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 130
+      }
     },
     "nutrition": {
       "kcal": 1450,
@@ -677,16 +1097,37 @@
     ]
   },
   {
-    "name": "Cheesekebab Pui",
+    "name": "Cheesekebab Pui 480gr",
+    "display_name": "cheesekebab pui",
     "weight_g": 480,
     "price_ron": 38,
     "ingredients": {
-      "cascaval_g": 60,
-      "legume_prajite_g": 60,
-      "carne_pui_g": 120,
-      "sos_g": 70,
-      "legume_g": 70,
-      "lipie_g": 100
+      "cascaval": {
+        "unit": "g",
+        "quantity": 60
+      },
+      "legume_prajite": {
+        "display_name": "legume prajite",
+        "unit": "g",
+        "quantity": 60
+      },
+      "carne_pui": {
+        "display_name": "carne pui",
+        "unit": "g",
+        "quantity": 120
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 70
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 70
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      }
     },
     "nutrition": {
       "kcal": 1350,
@@ -704,16 +1145,37 @@
     ]
   },
   {
-    "name": "Cheesekebab Vita",
+    "name": "Cheesekebab Vita 480gr",
+    "display_name": "cheesekebab vita",
     "weight_g": 480,
     "price_ron": 47,
     "ingredients": {
-      "cascaval_g": 60,
-      "legume_prajite_g": 60,
-      "carne_vita_g": 120,
-      "sos_g": 70,
-      "legume_g": 70,
-      "lipie_g": 100
+      "cascaval": {
+        "unit": "g",
+        "quantity": 60
+      },
+      "legume_prajite": {
+        "display_name": "legume prajite",
+        "unit": "g",
+        "quantity": 60
+      },
+      "carne_vita": {
+        "display_name": "carne vita",
+        "unit": "g",
+        "quantity": 120
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 70
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 70
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      }
     },
     "nutrition": {
       "kcal": 1420,
@@ -731,17 +1193,42 @@
     ]
   },
   {
-    "name": "Cheesekebab Mix",
+    "name": "Cheesekebab Mix 480gr",
+    "display_name": "cheesekebab mix",
     "weight_g": 480,
     "price_ron": 45,
     "ingredients": {
-      "cascaval_g": 60,
-      "legume_prajite_g": 60,
-      "carne_pui_g": 60,
-      "carne_vita_g": 60,
-      "sos_g": 70,
-      "legume_g": 70,
-      "lipie_g": 100
+      "cascaval": {
+        "unit": "g",
+        "quantity": 60
+      },
+      "legume_prajite": {
+        "display_name": "legume prajite",
+        "unit": "g",
+        "quantity": 60
+      },
+      "carne_pui": {
+        "display_name": "carne pui",
+        "unit": "g",
+        "quantity": 60
+      },
+      "carne_vita": {
+        "display_name": "carne vita",
+        "unit": "g",
+        "quantity": 60
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 70
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 70
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      }
     },
     "nutrition": {
       "kcal": 1385,
@@ -759,15 +1246,32 @@
     ]
   },
   {
-    "name": "Shaorma mica pui",
+    "name": "Shaorma mica pui 300gr",
+    "display_name": "shaorma mica pui",
     "weight_g": 300,
     "price_ron": 24,
     "ingredients": {
-      "carne_pui_g": 90,
-      "cartofi_g": 80,
-      "legume_g": 100,
-      "sos_g": 30,
-      "lipie_g": 60
+      "carne_pui": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 90
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 60
+      }
     },
     "nutrition": {
       "kcal": 780,
@@ -785,15 +1289,32 @@
     ]
   },
   {
-    "name": "Shaorma Medie pui",
+    "name": "Shaorma Medie pui 450gr",
+    "display_name": "shaorma medie pui",
     "weight_g": 450,
     "price_ron": 30,
     "ingredients": {
-      "carne_pui_g": 120,
-      "cartofi_g": 90,
-      "legume_g": 110,
-      "sos_g": 30,
-      "lipie_g": 100
+      "carne_pui": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 120
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 90
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 110
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      }
     },
     "nutrition": {
       "kcal": 1050,
@@ -811,15 +1332,32 @@
     ]
   },
   {
-    "name": "Shaorma Mare pui",
+    "name": "Shaorma Mare pui 600gr",
+    "display_name": "shaorma mare pui",
     "weight_g": 600,
     "price_ron": 34,
     "ingredients": {
-      "carne_pui_g": 160,
-      "cartofi_g": 120,
-      "legume_g": 140,
-      "sos_g": 80,
-      "lipie_g": 100
+      "carne_pui": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 160
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 120
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 140
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      }
     },
     "nutrition": {
       "kcal": 1400,
@@ -837,15 +1375,32 @@
     ]
   },
   {
-    "name": "Shaorma mica Vita",
+    "name": "Shaorma mica Vita 300gr",
+    "display_name": "shaorma mica vita",
     "weight_g": 300,
     "price_ron": 32,
     "ingredients": {
-      "carne_vita_g": 90,
-      "cartofi_g": 80,
-      "legume_g": 50,
-      "sos_g": 20,
-      "lipie_g": 60
+      "carne_vita": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 90
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 20
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 60
+      }
     },
     "nutrition": {
       "kcal": 820,
@@ -863,15 +1418,32 @@
     ]
   },
   {
-    "name": "Shaorma Medie Vita",
+    "name": "Shaorma Medie Vita 450gr",
+    "display_name": "shaorma medie vita",
     "weight_g": 450,
     "price_ron": 37,
     "ingredients": {
-      "carne_vita_g": 120,
-      "cartofi_g": 100,
-      "legume_g": 100,
-      "sos_g": 30,
-      "lipie_g": 100
+      "carne_vita": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 120
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      }
     },
     "nutrition": {
       "kcal": 1100,
@@ -889,15 +1461,32 @@
     ]
   },
   {
-    "name": "Shaorma Mare Vita",
+    "name": "Shaorma Mare Vita 600gr",
+    "display_name": "shaorma mare vita",
     "weight_g": 600,
     "price_ron": 42,
     "ingredients": {
-      "carne_vita_g": 160,
-      "cartofi_g": 120,
-      "legume_g": 120,
-      "sos_g": 100,
-      "lipie_g": 100
+      "carne_vita": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 160
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 120
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 120
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      }
     },
     "nutrition": {
       "kcal": 1450,
@@ -915,16 +1504,35 @@
     ]
   },
   {
-    "name": "Shaorma Mica Mixt",
+    "name": "Shaorma Mica Mixt 300gr",
+    "display_name": "shaorma mica mixt",
     "weight_g": 300,
     "price_ron": 28,
     "ingredients": {
-      "carne_vita_g": 45,
-      "carne_pui_g": 45,
-      "cartofi_g": 80,
-      "legume_g": 50,
-      "sos_g": 20,
-      "lipie_g": 60
+      "carne_vita": {
+        "unit": "g",
+        "quantity": 45
+      },
+      "carne_pui": {
+        "unit": "g",
+        "quantity": 45
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 20
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 60
+      }
     },
     "nutrition": {
       "kcal": 810,
@@ -942,16 +1550,35 @@
     ]
   },
   {
-    "name": "Shaorma Medie Mixt",
+    "name": "Shaorma Medie Mixt 450gr",
+    "display_name": "shaorma medie mixt",
     "weight_g": 450,
     "price_ron": 34,
     "ingredients": {
-      "carne_vita_g": 60,
-      "carne_pui_g": 60,
-      "cartofi_g": 100,
-      "legume_g": 100,
-      "sos_g": 30,
-      "lipie_g": 100
+      "carne_vita": {
+        "unit": "g",
+        "quantity": 60
+      },
+      "carne_pui": {
+        "unit": "g",
+        "quantity": 60
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 30
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      }
     },
     "nutrition": {
       "kcal": 1050,
@@ -969,16 +1596,35 @@
     ]
   },
   {
-    "name": "Shaorma Mare mixt",
+    "name": "Shaorma Mare mixt 600gr",
+    "display_name": "shaorma mare mixt",
     "weight_g": 600,
     "price_ron": 38,
     "ingredients": {
-      "carne_vita_g": 80,
-      "carne_pui_g": 80,
-      "cartofi_g": 120,
-      "legume_g": 120,
-      "sos_g": 100,
-      "lipie_g": 100
+      "carne_vita": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "carne_pui": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 120
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 120
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      }
     },
     "nutrition": {
       "kcal": 1400,
@@ -996,14 +1642,28 @@
     ]
   },
   {
-    "name": "Meniu Aripioare",
+    "name": "Meniu Aripioare 450 gr",
+    "display_name": "meniu aripioare",
     "weight_g": 450,
     "price_ron": 30,
     "ingredients": {
-      "carne_aripioare_g": 220,
-      "lipie_g": 100,
-      "bulgur_g": 100,
-      "legume_g": 130
+      "carne_pui": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 220
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "bulgur": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 130
+      }
     },
     "nutrition": {
       "kcal": 1420,
@@ -1018,16 +1678,28 @@
     ]
   },
   {
-    "name": "Meniu Chiftele",
+    "name": "Meniu Chiftele 450 gr",
+    "display_name": "meniu chiftele",
     "weight_g": 450,
     "price_ron": 48,
     "ingredients": {
-      "lipie_g": 100,
-      "bulgur_sau_cartofi_g": 100,
-      "legume_g": 130
-    },
-    "items": {
-      "chiftele_g": 220
+      "carne": {
+        "unit": "g",
+        "quantity": 220
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "bulgur_sau_cartofi": {
+        "display_name": "bulgur sau cartofi",
+        "unit": "g",
+        "quantity": 100
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 130
+      }
     },
     "nutrition": {
       "kcal": 1400,
@@ -1042,14 +1714,29 @@
     ]
   },
   {
-    "name": "Cotlet Berbecut",
+    "name": "Cotlet Berbecut 650gr",
+    "display_name": "cotlet berbecut",
     "weight_g": 650,
     "price_ron": 120,
     "ingredients": {
-      "carne_berbecut_g": 220,
-      "lipie_g": 100,
-      "bulgur_sau_cartofi_g": 100,
-      "legume_g": 130
+      "carne_berbecut": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 220
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "bulgur_sau_cartofi": {
+        "display_name": "bulgur sau cartofi",
+        "unit": "g",
+        "quantity": 100
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 130
+      }
     },
     "nutrition": {
       "kcal": 1850,
@@ -1064,16 +1751,28 @@
     ]
   },
   {
-    "name": "Meniu Crispy",
+    "name": "Meniu Crispy 780gr",
+    "display_name": "meniu crispy",
     "weight_g": 780,
     "price_ron": 48,
     "ingredients": {
-      "cartofi_g": 100,
-      "legume_g": 100,
-      "sos_g": 50
-    },
-    "items": {
-      "crispy_g": 480
+      "carne_pui": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 480
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 50
+      }
     },
     "nutrition": {
       "kcal": 1850,
@@ -1091,14 +1790,28 @@
     ]
   },
   {
-    "name": "Meniu Frigarui Berbecut",
+    "name": "Meniu Frigarui Berbecut 480 gr",
+    "display_name": "meniu frigarui berbecut",
     "weight_g": 480,
     "price_ron": 73,
     "ingredients": {
-      "carne_berbecut_g": 220,
-      "lipie_g": 100,
-      "bulgur_g": 100,
-      "legume_g": 130
+      "carne_berbecut": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 220
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "bulgur": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 130
+      }
     },
     "nutrition": {
       "kcal": 1500,
@@ -1113,14 +1826,28 @@
     ]
   },
   {
-    "name": "MENIU FRIGARUI PUI",
+    "name": "MENIU FRIGARUI PUI 480 gr",
+    "display_name": "meniu frigarui pui",
     "weight_g": 480,
     "price_ron": 43,
     "ingredients": {
-      "carne_pui_g": 220,
-      "lipie_g": 100,
-      "bulgur_g": 100,
-      "legume_g": 130
+      "carne_pui": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 220
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "bulgur": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 130
+      }
     },
     "nutrition": {
       "kcal": 1450,
@@ -1135,17 +1862,32 @@
     ]
   },
   {
-    "name": "Meniu nuggets",
+    "name": "Meniu nuggets 400gr",
+    "display_name": "meniu nuggets",
     "weight_g": 400,
     "price_ron": 29,
     "ingredients": {
-      "cartofi_g": 100,
-      "salata_g": 100,
-      "sos_g": 50,
-      "lipie_g": 100
-    },
-    "items": {
-      "nuggets_g": 130
+      "carne_pui": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 130
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "salata": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      }
     },
     "nutrition": {
       "kcal": 1050,
@@ -1163,17 +1905,32 @@
     ]
   },
   {
-    "name": "Meniu Snitel",
+    "name": "Meniu Snitel 450 gr",
+    "display_name": "meniu snitel",
     "weight_g": 450,
     "price_ron": 34,
     "ingredients": {
-      "cartofi_g": 100,
-      "legume_g": 100,
-      "sos_g": 50,
-      "lipie_g": 100
-    },
-    "items": {
-      "snitel_g": 320
+      "carne_pui": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 320
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "lipie": {
+        "unit": "g",
+        "quantity": 100
+      }
     },
     "nutrition": {
       "kcal": 1500,
@@ -1191,16 +1948,36 @@
     ]
   },
   {
-    "name": "Iskender pui",
+    "name": "Iskender pui 380gr",
+    "display_name": "iskender pui",
     "weight_g": 380,
     "price_ron": 52,
     "ingredients": {
-      "chifla_g": 150,
-      "carne_pui_g": 120,
-      "sos_g": 80,
-      "iaurt_g": 80,
-      "legume_g": 50,
-      "unt_g": 50
+      "chifla": {
+        "unit": "g",
+        "quantity": 150
+      },
+      "carne_pui": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 120
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "iaurt": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "unt": {
+        "unit": "g",
+        "quantity": 50
+      }
     },
     "nutrition": {
       "kcal": 1550,
@@ -1218,16 +1995,36 @@
     ]
   },
   {
-    "name": "Iskender vita",
+    "name": "Iskender vita 380gr",
+    "display_name": "iskender vita",
     "weight_g": 380,
     "price_ron": 58,
     "ingredients": {
-      "chifla_g": 150,
-      "carne_vita_g": 120,
-      "sos_g": 80,
-      "iaurt_g": 80,
-      "legume_g": 50,
-      "unt_g": 50
+      "chifla": {
+        "unit": "g",
+        "quantity": 150
+      },
+      "carne_vita": {
+        "display_name": "carne",
+        "unit": "g",
+        "quantity": 120
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "iaurt": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "unt": {
+        "unit": "g",
+        "quantity": 50
+      }
     },
     "nutrition": {
       "kcal": 1600,
@@ -1245,16 +2042,39 @@
     ]
   },
   {
-    "name": "Iskender mix",
+    "name": "Iskender mix 380gr",
+    "display_name": "iskender mix",
     "weight_g": 380,
     "price_ron": 56,
     "ingredients": {
-      "chifla_g": 150,
-      "carne_mix_g": 120,
-      "sos_g": 80,
-      "iaurt_g": 80,
-      "legume_g": 50,
-      "unt_g": 50
+      "chifla": {
+        "unit": "g",
+        "quantity": 150
+      },
+      "carne_pui": {
+        "unit": "g",
+        "quantity": 60
+      },
+      "carne_vita": {
+        "unit": "g",
+        "quantity": 60
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "iaurt": {
+        "unit": "g",
+        "quantity": 80
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "unt": {
+        "unit": "g",
+        "quantity": 50
+      }
     },
     "nutrition": {
       "kcal": 1580,
@@ -1272,15 +2092,31 @@
     ]
   },
   {
-    "name": "Tire kebab",
+    "name": "Tire kebab 480gr",
+    "display_name": "tire kebab",
     "weight_g": 480,
     "price_ron": 63,
     "ingredients": {
-      "carne_g": 120,
-      "chifla_g": 150,
-      "rosii_g": 100,
-      "unt_g": 50,
-      "iaurt_g": 100
+      "carne": {
+        "unit": "g",
+        "quantity": 120
+      },
+      "chifla": {
+        "unit": "g",
+        "quantity": 150
+      },
+      "rosii": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "unt": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "iaurt": {
+        "unit": "g",
+        "quantity": 100
+      }
     },
     "nutrition": {
       "kcal": 1450,
@@ -1299,16 +2135,39 @@
   },
   {
     "name": "Platou 2 persoane",
+    "display_name": "platou 2 persoane",
     "weight_g": null,
     "price_ron": 140,
     "items": {
-      "crispy_buc": 2,
-      "falafel_buc": 2,
-      "snitel_buc": 2,
-      "carne_shaorma_pui_g": 100,
-      "cartofii_g": 200,
-      "aripoare_buc": 2,
-      "sos_g": 180
+      "crispy": {
+        "unit": "buc",
+        "quantity": 2
+      },
+      "falafel": {
+        "unit": "buc",
+        "quantity": 2
+      },
+      "snitel": {
+        "unit": "buc",
+        "quantity": 2
+      },
+      "carne_shaorma_pui": {
+        "display_name": "carne shaorma pui",
+        "unit": "g",
+        "quantity": 100
+      },
+      "cartofii": {
+        "unit": "g",
+        "quantity": 200
+      },
+      "aripoare": {
+        "unit": "buc",
+        "quantity": 2
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 180
+      }
     },
     "nutrition": {
       "kcal": 4200,
@@ -1328,16 +2187,39 @@
   },
   {
     "name": "Platou 4 persoane",
+    "display_name": "platou 4 persoane",
     "weight_g": null,
     "price_ron": 240,
     "items": {
-      "crispy_buc": 4,
-      "falafel_buc": 4,
-      "snitel_buc": 4,
-      "carne_shaorma_pui_g": 150,
-      "cartofii_g": 400,
-      "aripoare_buc": 4,
-      "sos_g": 180
+      "crispy": {
+        "unit": "buc",
+        "quantity": 4
+      },
+      "falafel": {
+        "unit": "buc",
+        "quantity": 4
+      },
+      "snitel": {
+        "unit": "buc",
+        "quantity": 4
+      },
+      "carne_shaorma_pui": {
+        "display_name": "carne shaorma pui",
+        "unit": "g",
+        "quantity": 150
+      },
+      "cartofii": {
+        "unit": "g",
+        "quantity": 400
+      },
+      "aripoare": {
+        "unit": "buc",
+        "quantity": 4
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 180
+      }
     },
     "nutrition": {
       "kcal": 7900,
@@ -1357,16 +2239,39 @@
   },
   {
     "name": "Platou 6 persoane",
+    "display_name": "platou 6 persoane",
     "weight_g": null,
     "price_ron": 360,
     "items": {
-      "crispy_buc": 6,
-      "falafel_buc": 6,
-      "snitel_buc": 6,
-      "carne_shaorma_pui_g": 200,
-      "cartofii_g": 600,
-      "aripoare_buc": 6,
-      "sos_g": 180
+      "crispy": {
+        "unit": "buc",
+        "quantity": 6
+      },
+      "falafel": {
+        "unit": "buc",
+        "quantity": 6
+      },
+      "snitel": {
+        "unit": "buc",
+        "quantity": 6
+      },
+      "carne_shaorma_pui": {
+        "display_name": "carne shaorma pui",
+        "unit": "g",
+        "quantity": 200
+      },
+      "cartofii": {
+        "unit": "g",
+        "quantity": 600
+      },
+      "aripoare": {
+        "unit": "buc",
+        "quantity": 6
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 180
+      }
     },
     "nutrition": {
       "kcal": 11600,
@@ -1385,17 +2290,39 @@
     ]
   },
   {
-    "name": "Meniu bomba",
+    "name": "Meniu bomba 480gr",
+    "display_name": "meniu bomba",
     "weight_g": 480,
     "price_ron": 33,
     "ingredients": {
-      "carne_g": 120,
-      "pesmet_g": 20,
-      "faina_g": 20,
-      "ou_buc": 1,
-      "sos_g": 50,
-      "cartofi_g": 100,
-      "legume_g": 100
+      "carne": {
+        "unit": "g",
+        "quantity": 120
+      },
+      "pesmet": {
+        "unit": "g",
+        "quantity": 20
+      },
+      "faina": {
+        "unit": "g",
+        "quantity": 20
+      },
+      "ou": {
+        "unit": "buc",
+        "quantity": 1
+      },
+      "sos": {
+        "unit": "g",
+        "quantity": 50
+      },
+      "cartofi": {
+        "unit": "g",
+        "quantity": 100
+      },
+      "legume": {
+        "unit": "g",
+        "quantity": 100
+      }
     },
     "nutrition": {
       "kcal": 1350,
