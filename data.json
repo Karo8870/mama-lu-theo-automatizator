@@ -1,0 +1,1415 @@
+[
+  {
+    "name": "DONNER Pui",
+    "weight_g": 350,
+    "price_ron": 28,
+    "ingredients": {
+      "chifla_g": 150,
+      "carne_pui_g": 80,
+      "legume_g": 70,
+      "sos_g": 50
+    },
+    "nutrition": {
+      "kcal": 851,
+      "proteine_g": 35,
+      "grasimi_g": 40,
+      "carbohidrati_g": 90
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "DONNER Vita",
+    "weight_g": 350,
+    "price_ron": 34,
+    "ingredients": {
+      "chifla_g": 150,
+      "carne_vita_g": 80,
+      "legume_g": 70,
+      "sos_g": 50
+    },
+    "nutrition": {
+      "kcal": 895,
+      "proteine_g": 33,
+      "grasimi_g": 45,
+      "carbohidrati_g": 88
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "DONNER Mixt",
+    "weight_g": 350,
+    "price_ron": 31,
+    "ingredients": {
+      "carne_pui_g": 40,
+      "carne_vita_g": 40,
+      "chifla_g": 150,
+      "sos_g": 50,
+      "legume_g": 70
+    },
+    "nutrition": {
+      "kcal": 873,
+      "proteine_g": 34,
+      "grasimi_g": 43,
+      "carbohidrati_g": 89
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "SANDWICH SNITEL",
+    "weight_g": 460,
+    "price_ron": 29,
+    "ingredients": {
+      "paine_g": 170,
+      "cartofi_g": 60,
+      "sos_g": 30,
+      "legume_g": 50
+    },
+    "items": {
+      "snitel_g": 160
+    },
+    "nutrition": {
+      "kcal": 1185,
+      "proteine_g": 52,
+      "grasimi_g": 55,
+      "carbohidrati_g": 115
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "HAMBURGER Pui",
+    "weight_g": 450,
+    "price_ron": 23,
+    "ingredients": {
+      "carne_pui_g": 150,
+      "cartofi_g": 50,
+      "paine_g": 150,
+      "sos_g": 40,
+      "legume_g": 60
+    },
+    "nutrition": {
+      "kcal": 1060,
+      "proteine_g": 55,
+      "grasimi_g": 48,
+      "carbohidrati_g": 105
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "HAMBURGER Vita",
+    "weight_g": 500,
+    "price_ron": 32,
+    "ingredients": {
+      "carne_vita_g": 200,
+      "cartofi_g": 50,
+      "paine_g": 150,
+      "sos_g": 40,
+      "legume_g": 60
+    },
+    "nutrition": {
+      "kcal": 1245,
+      "proteine_g": 68,
+      "grasimi_g": 72,
+      "carbohidrati_g": 98
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "FALAFEL Lipie Mediu",
+    "weight_g": 380,
+    "price_ron": 28,
+    "ingredients": {
+      "lipie_g": 100,
+      "sos_g": 60,
+      "cartofi_g": 50,
+      "legume_g": 70
+    },
+    "items": {
+      "chiftele_falafel_g": 100
+    },
+    "nutrition": {
+      "kcal": 1020,
+      "proteine_g": 28,
+      "grasimi_g": 48,
+      "carbohidrati_g": 118
+    },
+    "allergens": [
+      "gluten",
+      "susan",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "FALAFEL Lipie Mare",
+    "weight_g": 500,
+    "price_ron": 32,
+    "ingredients": {
+      "lipie_g": 100,
+      "sos_g": 80,
+      "cartofi_g": 100,
+      "legume_g": 100
+    },
+    "items": {
+      "chiftele_falafel_g": 120
+    },
+    "nutrition": {
+      "kcal": 1340,
+      "proteine_g": 34,
+      "grasimi_g": 62,
+      "carbohidrati_g": 160
+    },
+    "allergens": [
+      "gluten",
+      "susan",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "FALAFEL la Farfurie Mare 500g",
+    "weight_g": 500,
+    "price_ron": 30,
+    "ingredients": {
+      "lipie_g": 100,
+      "sos_g": 60,
+      "cartofi_g": 50,
+      "legume_g": 70,
+      "humus_g": 120
+    },
+    "items": {
+      "chiftele_falafel_g": 100
+    },
+    "nutrition": {
+      "kcal": 1220,
+      "proteine_g": 32,
+      "grasimi_g": 54,
+      "carbohidrati_g": 138
+    },
+    "allergens": [
+      "gluten",
+      "susan",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "FALAFEL la Farfurie Mare 620g",
+    "weight_g": 620,
+    "price_ron": 34,
+    "ingredients": {
+      "lipie_g": 100,
+      "sos_g": 80,
+      "cartofi_g": 100,
+      "legume_g": 100,
+      "humus_g": 120
+    },
+    "items": {
+      "chiftele_falafel_g": 120
+    },
+    "nutrition": {
+      "kcal": 1480,
+      "proteine_g": 38,
+      "grasimi_g": 72,
+      "carbohidrati_g": 180
+    },
+    "allergens": [
+      "gluten",
+      "susan",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "DURUM RULAT Pui",
+    "weight_g": 350,
+    "price_ron": 39,
+    "ingredients": {
+      "carne_pui_g": 130,
+      "cartofi_g": 100,
+      "cascaval_g": 70,
+      "sos_g": 50
+    },
+    "nutrition": {
+      "kcal": 1050,
+      "proteine_g": 52,
+      "grasimi_g": 55,
+      "carbohidrati_g": 60
+    },
+    "allergens": [
+      "gluten",
+      "lapte",
+      "ou",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "DURUM RULAT Vita",
+    "weight_g": 350,
+    "price_ron": 48,
+    "ingredients": {
+      "carne_vita_g": 130,
+      "cartofi_g": 100,
+      "cascaval_g": 70,
+      "sos_g": 50
+    },
+    "nutrition": {
+      "kcal": 1150,
+      "proteine_g": 50,
+      "grasimi_g": 60,
+      "carbohidrati_g": 60
+    },
+    "allergens": [
+      "gluten",
+      "lapte",
+      "ou",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "SUPA Pui",
+    "weight_g": 350,
+    "price_ron": 22,
+    "ingredients": {
+      "orez_g": 30,
+      "apa_ml": 200,
+      "carne_pui_g": 80,
+      "legume_g": 40
+    },
+    "nutrition": {
+      "kcal": 180,
+      "proteine_g": 15,
+      "grasimi_g": 5,
+      "carbohidrati_g": 20
+    },
+    "allergens": [
+      "posibil gluten",
+      "posibil telina",
+      "posibil lapte",
+      "posibil ou"
+    ]
+  },
+  {
+    "name": "Supa LINTE",
+    "weight_g": 350,
+    "price_ron": 26,
+    "ingredients": {
+      "linte_g": 250,
+      "legume_g": 50,
+      "apa_ml": 50
+    },
+    "nutrition": {
+      "kcal": 320,
+      "proteine_g": 18,
+      "grasimi_g": 4,
+      "carbohidrati_g": 55
+    },
+    "allergens": [
+      "posibil gluten",
+      "posibil telina",
+      "soia"
+    ]
+  },
+  {
+    "name": "BABAHANUS",
+    "weight_g": 250,
+    "price_ron": 30,
+    "ingredients": {
+      "vinete_g": 100,
+      "ardei_kapia_g": 100,
+      "rosii_g": 40,
+      "usturoi_g": 10
+    },
+    "nutrition": {
+      "kcal": 120,
+      "proteine_g": 3,
+      "grasimi_g": 8,
+      "carbohidrati_g": 12
+    },
+    "allergens": [
+      "posibil susan",
+      "posibil soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Ezme",
+    "weight_g": 250,
+    "price_ron": 25,
+    "ingredients": {
+      "rosii_g": 100,
+      "castravete_verde_g": 100,
+      "ardei_iute_g": 20,
+      "sos_rodii_g": 30
+    },
+    "nutrition": {
+      "kcal": 85,
+      "proteine_g": 2,
+      "grasimi_g": 1,
+      "carbohidrati_g": 18
+    },
+    "allergens": [
+      "posibil soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Haydari",
+    "weight_g": 250,
+    "price_ron": 20,
+    "ingredients": {
+      "menta_g": 20,
+      "usturoi_g": 20,
+      "iaurt_g": 210
+    },
+    "nutrition": {
+      "kcal": 200,
+      "proteine_g": 10,
+      "grasimi_g": 12,
+      "carbohidrati_g": 8
+    },
+    "allergens": [
+      "lapte",
+      "posibil usturoi",
+      "posibil soia"
+    ]
+  },
+  {
+    "name": "Humus",
+    "weight_g": 250,
+    "price_ron": 20,
+    "ingredients": {
+      "naut_g": 200,
+      "lamaie_g": 10,
+      "susan_g": 30,
+      "usturoi_g": 10
+    },
+    "nutrition": {
+      "kcal": 550,
+      "proteine_g": 18,
+      "grasimi_g": 35,
+      "carbohidrati_g": 40
+    },
+    "allergens": [
+      "susan",
+      "posibil soia",
+      "posibil telina",
+      "posibil usturoi"
+    ]
+  },
+  {
+    "name": "Shakshuka",
+    "weight_g": 250,
+    "price_ron": 20,
+    "ingredients": {
+      "vinete_g": 100,
+      "ardei_kapia_g": 50,
+      "ardei_verde_g": 50,
+      "rosii_g": 50
+    },
+    "nutrition": {
+      "kcal": 90,
+      "proteine_g": 2,
+      "grasimi_g": 4,
+      "carbohidrati_g": 12
+    },
+    "allergens": [
+      "posibil soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Tabbouleh",
+    "weight_g": 250,
+    "price_ron": 25,
+    "ingredients": {
+      "patrunjel_g": 150,
+      "bulgur_g": 30,
+      "rosii_g": 30,
+      "rodii_g": 30,
+      "ceapa_rosie_g": 10
+    },
+    "nutrition": {
+      "kcal": 160,
+      "proteine_g": 5,
+      "grasimi_g": 3,
+      "carbohidrati_g": 30
+    },
+    "allergens": [
+      "gluten",
+      "posibil soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Salata Pui",
+    "weight_g": 370,
+    "price_ron": 32,
+    "ingredients": {
+      "legume_g": 290,
+      "carne_pui_g": 80
+    },
+    "nutrition": {
+      "kcal": 220,
+      "proteine_g": 18,
+      "grasimi_g": 5,
+      "carbohidrati_g": 25
+    },
+    "allergens": [
+      "posibil soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Kebab Pui",
+    "weight_g": 380,
+    "price_ron": 30,
+    "ingredients": {
+      "paine_g": 150,
+      "carne_pui_g": 80,
+      "cartofi_g": 50,
+      "sos_g": 30,
+      "legume_g": 70
+    },
+    "nutrition": {
+      "kcal": 930,
+      "proteine_g": 35,
+      "grasimi_g": 42,
+      "carbohidrati_g": 95
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Kebab Vita",
+    "weight_g": 380,
+    "price_ron": 30,
+    "ingredients": {
+      "paine_g": 150,
+      "carne_vita_g": 80,
+      "cartofi_g": 50,
+      "sos_g": 30,
+      "legume_g": 70
+    },
+    "nutrition": {
+      "kcal": 980,
+      "proteine_g": 34,
+      "grasimi_g": 45,
+      "carbohidrati_g": 95
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Kebab Mix",
+    "weight_g": 380,
+    "price_ron": 30,
+    "ingredients": {
+      "paine_g": 150,
+      "carne_pui_g": 40,
+      "carne_vita_g": 40,
+      "cartofi_g": 50,
+      "sos_g": 30,
+      "legume_g": 70
+    },
+    "nutrition": {
+      "kcal": 955,
+      "proteine_g": 35,
+      "grasimi_g": 43,
+      "carbohidrati_g": 95
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Vatra Pui",
+    "weight_g": 590,
+    "price_ron": 57,
+    "ingredients": {
+      "lipie_g": 200,
+      "carne_pui_g": 200,
+      "cascaval_g": 80,
+      "iaurt_g": 30,
+      "sos_g": 30,
+      "fistic_g": 20,
+      "unt_g": 30
+    },
+    "nutrition": {
+      "kcal": 1870,
+      "proteine_g": 75,
+      "grasimi_g": 120,
+      "carbohidrati_g": 100
+    },
+    "allergens": [
+      "gluten",
+      "lapte",
+      "ou",
+      "mustar",
+      "soia",
+      "fistic",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Vatra Vita",
+    "weight_g": 590,
+    "price_ron": 66,
+    "ingredients": {
+      "lipie_g": 200,
+      "carne_vita_g": 200,
+      "cascaval_g": 80,
+      "iaurt_g": 30,
+      "sos_g": 30,
+      "fistic_g": 20,
+      "unt_g": 30
+    },
+    "nutrition": {
+      "kcal": 1950,
+      "proteine_g": 72,
+      "grasimi_g": 125,
+      "carbohidrati_g": 100
+    },
+    "allergens": [
+      "gluten",
+      "lapte",
+      "ou",
+      "mustar",
+      "soia",
+      "fistic",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Adana",
+    "weight_g": 550,
+    "price_ron": 68,
+    "ingredients": {
+      "carne_g": 220,
+      "lipie_g": 100,
+      "bulgur_g": 100,
+      "legume_g": 130
+    },
+    "nutrition": {
+      "kcal": 1450,
+      "proteine_g": 65,
+      "grasimi_g": 70,
+      "carbohidrati_g": 130
+    },
+    "allergens": [
+      "gluten",
+      "posibil soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Cheesekebab Pui",
+    "weight_g": 480,
+    "price_ron": 38,
+    "ingredients": {
+      "cascaval_g": 60,
+      "legume_prajite_g": 60,
+      "carne_pui_g": 120,
+      "sos_g": 70,
+      "legume_g": 70,
+      "lipie_g": 100
+    },
+    "nutrition": {
+      "kcal": 1350,
+      "proteine_g": 50,
+      "grasimi_g": 75,
+      "carbohidrati_g": 100
+    },
+    "allergens": [
+      "gluten",
+      "lapte",
+      "ou",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Cheesekebab Vita",
+    "weight_g": 480,
+    "price_ron": 47,
+    "ingredients": {
+      "cascaval_g": 60,
+      "legume_prajite_g": 60,
+      "carne_vita_g": 120,
+      "sos_g": 70,
+      "legume_g": 70,
+      "lipie_g": 100
+    },
+    "nutrition": {
+      "kcal": 1420,
+      "proteine_g": 48,
+      "grasimi_g": 80,
+      "carbohidrati_g": 100
+    },
+    "allergens": [
+      "gluten",
+      "lapte",
+      "ou",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Cheesekebab Mix",
+    "weight_g": 480,
+    "price_ron": 45,
+    "ingredients": {
+      "cascaval_g": 60,
+      "legume_prajite_g": 60,
+      "carne_pui_g": 60,
+      "carne_vita_g": 60,
+      "sos_g": 70,
+      "legume_g": 70,
+      "lipie_g": 100
+    },
+    "nutrition": {
+      "kcal": 1385,
+      "proteine_g": 49,
+      "grasimi_g": 78,
+      "carbohidrati_g": 100
+    },
+    "allergens": [
+      "gluten",
+      "lapte",
+      "ou",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Shaorma mica pui",
+    "weight_g": 300,
+    "price_ron": 24,
+    "ingredients": {
+      "carne_pui_g": 90,
+      "cartofi_g": 80,
+      "legume_g": 100,
+      "sos_g": 30,
+      "lipie_g": 60
+    },
+    "nutrition": {
+      "kcal": 780,
+      "proteine_g": 32,
+      "grasimi_g": 35,
+      "carbohidrati_g": 75
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Shaorma Medie pui",
+    "weight_g": 450,
+    "price_ron": 30,
+    "ingredients": {
+      "carne_pui_g": 120,
+      "cartofi_g": 90,
+      "legume_g": 110,
+      "sos_g": 30,
+      "lipie_g": 100
+    },
+    "nutrition": {
+      "kcal": 1050,
+      "proteine_g": 42,
+      "grasimi_g": 45,
+      "carbohidrati_g": 95
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Shaorma Mare pui",
+    "weight_g": 600,
+    "price_ron": 34,
+    "ingredients": {
+      "carne_pui_g": 160,
+      "cartofi_g": 120,
+      "legume_g": 140,
+      "sos_g": 80,
+      "lipie_g": 100
+    },
+    "nutrition": {
+      "kcal": 1400,
+      "proteine_g": 55,
+      "grasimi_g": 65,
+      "carbohidrati_g": 125
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Shaorma mica Vita",
+    "weight_g": 300,
+    "price_ron": 32,
+    "ingredients": {
+      "carne_vita_g": 90,
+      "cartofi_g": 80,
+      "legume_g": 50,
+      "sos_g": 20,
+      "lipie_g": 60
+    },
+    "nutrition": {
+      "kcal": 820,
+      "proteine_g": 30,
+      "grasimi_g": 40,
+      "carbohidrati_g": 70
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Shaorma Medie Vita",
+    "weight_g": 450,
+    "price_ron": 37,
+    "ingredients": {
+      "carne_vita_g": 120,
+      "cartofi_g": 100,
+      "legume_g": 100,
+      "sos_g": 30,
+      "lipie_g": 100
+    },
+    "nutrition": {
+      "kcal": 1100,
+      "proteine_g": 42,
+      "grasimi_g": 50,
+      "carbohidrati_g": 95
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Shaorma Mare Vita",
+    "weight_g": 600,
+    "price_ron": 42,
+    "ingredients": {
+      "carne_vita_g": 160,
+      "cartofi_g": 120,
+      "legume_g": 120,
+      "sos_g": 100,
+      "lipie_g": 100
+    },
+    "nutrition": {
+      "kcal": 1450,
+      "proteine_g": 55,
+      "grasimi_g": 70,
+      "carbohidrati_g": 120
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Shaorma Mica Mixt",
+    "weight_g": 300,
+    "price_ron": 28,
+    "ingredients": {
+      "carne_vita_g": 45,
+      "carne_pui_g": 45,
+      "cartofi_g": 80,
+      "legume_g": 50,
+      "sos_g": 20,
+      "lipie_g": 60
+    },
+    "nutrition": {
+      "kcal": 810,
+      "proteine_g": 31,
+      "grasimi_g": 38,
+      "carbohidrati_g": 70
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Shaorma Medie Mixt",
+    "weight_g": 450,
+    "price_ron": 34,
+    "ingredients": {
+      "carne_vita_g": 60,
+      "carne_pui_g": 60,
+      "cartofi_g": 100,
+      "legume_g": 100,
+      "sos_g": 30,
+      "lipie_g": 100
+    },
+    "nutrition": {
+      "kcal": 1050,
+      "proteine_g": 42,
+      "grasimi_g": 50,
+      "carbohidrati_g": 95
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Shaorma Mare mixt",
+    "weight_g": 600,
+    "price_ron": 38,
+    "ingredients": {
+      "carne_vita_g": 80,
+      "carne_pui_g": 80,
+      "cartofi_g": 120,
+      "legume_g": 120,
+      "sos_g": 100,
+      "lipie_g": 100
+    },
+    "nutrition": {
+      "kcal": 1400,
+      "proteine_g": 55,
+      "grasimi_g": 65,
+      "carbohidrati_g": 125
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Meniu Aripioare",
+    "weight_g": 450,
+    "price_ron": 30,
+    "ingredients": {
+      "carne_aripioare_g": 220,
+      "lipie_g": 100,
+      "bulgur_g": 100,
+      "legume_g": 130
+    },
+    "nutrition": {
+      "kcal": 1420,
+      "proteine_g": 65,
+      "grasimi_g": 70,
+      "carbohidrati_g": 130
+    },
+    "allergens": [
+      "gluten",
+      "posibil soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Meniu Chiftele",
+    "weight_g": 450,
+    "price_ron": 48,
+    "ingredients": {
+      "lipie_g": 100,
+      "bulgur_sau_cartofi_g": 100,
+      "legume_g": 130
+    },
+    "items": {
+      "chiftele_g": 220
+    },
+    "nutrition": {
+      "kcal": 1400,
+      "proteine_g": 60,
+      "grasimi_g": 68,
+      "carbohidrati_g": 130
+    },
+    "allergens": [
+      "gluten",
+      "posibil soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Cotlet Berbecut",
+    "weight_g": 650,
+    "price_ron": 120,
+    "ingredients": {
+      "carne_berbecut_g": 220,
+      "lipie_g": 100,
+      "bulgur_sau_cartofi_g": 100,
+      "legume_g": 130
+    },
+    "nutrition": {
+      "kcal": 1850,
+      "proteine_g": 65,
+      "grasimi_g": 90,
+      "carbohidrati_g": 140
+    },
+    "allergens": [
+      "gluten",
+      "posibil soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Meniu Crispy",
+    "weight_g": 780,
+    "price_ron": 48,
+    "ingredients": {
+      "cartofi_g": 100,
+      "legume_g": 100,
+      "sos_g": 50
+    },
+    "items": {
+      "crispy_g": 480
+    },
+    "nutrition": {
+      "kcal": 1850,
+      "proteine_g": 90,
+      "grasimi_g": 90,
+      "carbohidrati_g": 110
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Meniu Frigarui Berbecut",
+    "weight_g": 480,
+    "price_ron": 73,
+    "ingredients": {
+      "carne_berbecut_g": 220,
+      "lipie_g": 100,
+      "bulgur_g": 100,
+      "legume_g": 130
+    },
+    "nutrition": {
+      "kcal": 1500,
+      "proteine_g": 65,
+      "grasimi_g": 75,
+      "carbohidrati_g": 130
+    },
+    "allergens": [
+      "gluten",
+      "posibil soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "MENIU FRIGARUI PUI",
+    "weight_g": 480,
+    "price_ron": 43,
+    "ingredients": {
+      "carne_pui_g": 220,
+      "lipie_g": 100,
+      "bulgur_g": 100,
+      "legume_g": 130
+    },
+    "nutrition": {
+      "kcal": 1450,
+      "proteine_g": 65,
+      "grasimi_g": 70,
+      "carbohidrati_g": 130
+    },
+    "allergens": [
+      "gluten",
+      "posibil soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Meniu nuggets",
+    "weight_g": 400,
+    "price_ron": 29,
+    "ingredients": {
+      "cartofi_g": 100,
+      "salata_g": 100,
+      "sos_g": 50,
+      "lipie_g": 100
+    },
+    "items": {
+      "nuggets_g": 130
+    },
+    "nutrition": {
+      "kcal": 1050,
+      "proteine_g": 35,
+      "grasimi_g": 45,
+      "carbohidrati_g": 95
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Meniu Snitel",
+    "weight_g": 450,
+    "price_ron": 34,
+    "ingredients": {
+      "cartofi_g": 100,
+      "legume_g": 100,
+      "sos_g": 50,
+      "lipie_g": 100
+    },
+    "items": {
+      "snitel_g": 320
+    },
+    "nutrition": {
+      "kcal": 1500,
+      "proteine_g": 65,
+      "grasimi_g": 75,
+      "carbohidrati_g": 110
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Iskender pui",
+    "weight_g": 380,
+    "price_ron": 52,
+    "ingredients": {
+      "chifla_g": 150,
+      "carne_pui_g": 120,
+      "sos_g": 80,
+      "iaurt_g": 80,
+      "legume_g": 50,
+      "unt_g": 50
+    },
+    "nutrition": {
+      "kcal": 1550,
+      "proteine_g": 65,
+      "grasimi_g": 90,
+      "carbohidrati_g": 95
+    },
+    "allergens": [
+      "gluten",
+      "lapte",
+      "ou",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Iskender vita",
+    "weight_g": 380,
+    "price_ron": 58,
+    "ingredients": {
+      "chifla_g": 150,
+      "carne_vita_g": 120,
+      "sos_g": 80,
+      "iaurt_g": 80,
+      "legume_g": 50,
+      "unt_g": 50
+    },
+    "nutrition": {
+      "kcal": 1600,
+      "proteine_g": 65,
+      "grasimi_g": 95,
+      "carbohidrati_g": 95
+    },
+    "allergens": [
+      "gluten",
+      "lapte",
+      "ou",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Iskender mix",
+    "weight_g": 380,
+    "price_ron": 56,
+    "ingredients": {
+      "chifla_g": 150,
+      "carne_mix_g": 120,
+      "sos_g": 80,
+      "iaurt_g": 80,
+      "legume_g": 50,
+      "unt_g": 50
+    },
+    "nutrition": {
+      "kcal": 1580,
+      "proteine_g": 65,
+      "grasimi_g": 90,
+      "carbohidrati_g": 95
+    },
+    "allergens": [
+      "gluten",
+      "lapte",
+      "ou",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Tire kebab",
+    "weight_g": 480,
+    "price_ron": 63,
+    "ingredients": {
+      "carne_g": 120,
+      "chifla_g": 150,
+      "rosii_g": 100,
+      "unt_g": 50,
+      "iaurt_g": 100
+    },
+    "nutrition": {
+      "kcal": 1450,
+      "proteine_g": 50,
+      "grasimi_g": 80,
+      "carbohidrati_g": 90
+    },
+    "allergens": [
+      "gluten",
+      "lapte",
+      "ou",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  },
+  {
+    "name": "Platou 2 persoane",
+    "weight_g": null,
+    "price_ron": 140,
+    "items": {
+      "crispy_buc": 2,
+      "falafel_buc": 2,
+      "snitel_buc": 2,
+      "carne_shaorma_pui_g": 100,
+      "cartofii_g": 200,
+      "aripoare_buc": 2,
+      "sos_g": 180
+    },
+    "nutrition": {
+      "kcal": 4200,
+      "proteine_g": 180,
+      "grasimi_g": 210,
+      "carbohidrati_g": 380
+    },
+    "allergens": [
+      "gluten",
+      "lapte",
+      "ou",
+      "mustar",
+      "soia",
+      "posibil telina",
+      "posibil susan"
+    ]
+  },
+  {
+    "name": "Platou 4 persoane",
+    "weight_g": null,
+    "price_ron": 240,
+    "items": {
+      "crispy_buc": 4,
+      "falafel_buc": 4,
+      "snitel_buc": 4,
+      "carne_shaorma_pui_g": 150,
+      "cartofii_g": 400,
+      "aripoare_buc": 4,
+      "sos_g": 180
+    },
+    "nutrition": {
+      "kcal": 7900,
+      "proteine_g": 340,
+      "grasimi_g": 400,
+      "carbohidrati_g": 750
+    },
+    "allergens": [
+      "gluten",
+      "lapte",
+      "ou",
+      "mustar",
+      "soia",
+      "posibil telina",
+      "posibil susan"
+    ]
+  },
+  {
+    "name": "Platou 6 persoane",
+    "weight_g": null,
+    "price_ron": 360,
+    "items": {
+      "crispy_buc": 6,
+      "falafel_buc": 6,
+      "snitel_buc": 6,
+      "carne_shaorma_pui_g": 200,
+      "cartofii_g": 600,
+      "aripoare_buc": 6,
+      "sos_g": 180
+    },
+    "nutrition": {
+      "kcal": 11600,
+      "proteine_g": 510,
+      "grasimi_g": 600,
+      "carbohidrati_g": 1120
+    },
+    "allergens": [
+      "gluten",
+      "lapte",
+      "ou",
+      "mustar",
+      "soia",
+      "posibil telina",
+      "posibil susan"
+    ]
+  },
+  {
+    "name": "Meniu bomba",
+    "weight_g": 480,
+    "price_ron": 33,
+    "ingredients": {
+      "carne_g": 120,
+      "pesmet_g": 20,
+      "faina_g": 20,
+      "ou_buc": 1,
+      "sos_g": 50,
+      "cartofi_g": 100,
+      "legume_g": 100
+    },
+    "nutrition": {
+      "kcal": 1350,
+      "proteine_g": 50,
+      "grasimi_g": 65,
+      "carbohidrati_g": 90
+    },
+    "allergens": [
+      "gluten",
+      "ou",
+      "lapte",
+      "mustar",
+      "soia",
+      "posibil telina"
+    ]
+  }
+]

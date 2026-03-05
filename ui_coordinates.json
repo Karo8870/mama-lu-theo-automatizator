@@ -1,0 +1,54 @@
+{
+  "product_search_box": {
+    "x": 320.828125,
+    "y": 728.046875
+  },
+  "product_dropdown_item": {
+    "x": 247.95703125,
+    "y": 580.40625
+  },
+  "complex_product_checkbox": {
+    "x": -1,
+    "y": -1
+  },
+  "retetar_button": {
+    "x": 362.19921875,
+    "y": 650.890625
+  },
+  "ingredient_search_box": {
+    "x": 362.19921875,
+    "y": 650.890625
+  },
+  "ingredient_dropdown_item": {
+    "x": 362.19921875,
+    "y": 650.890625
+  },
+  "ingredient_weight_box": {
+    "x": 362.19921875,
+    "y": 650.890625
+  },
+  "ingredient_add_button": {
+    "x": 362.19921875,
+    "y": 650.890625
+  },
+  "item_search_box": {
+    "x": 362.19921875,
+    "y": 650.890625
+  },
+  "item_dropdown_item": {
+    "x": 356.31640625,
+    "y": 764.296875
+  },
+  "item_add_button": {
+    "x": 297.84765625,
+    "y": 681.12890625
+  },
+  "save_button_primary": {
+    "x": 297.84765625,
+    "y": 681.12890625
+  },
+  "save_button_secondary": {
+    "x": 297.84765625,
+    "y": 681.12890625
+  }
+}
